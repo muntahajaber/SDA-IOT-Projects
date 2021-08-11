@@ -1,4 +1,4 @@
-# SDA-IOT-Prpjects
+# SDA-IOT-Projects
 # IOT - INTERMEDIATE
 # Project-1(Home Automation System)
 Project-1 Resources:  
