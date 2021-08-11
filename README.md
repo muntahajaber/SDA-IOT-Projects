@@ -1,8 +1,7 @@
 # SDA-IOT-Prpjects
 # IOT - INTERMEDIATE
 # Project-1(Home Automation System)
-video link:
-# Project-1 Resources 
+Project-1 Resources:  
 relay connect: https://www.youtube.com/watch?v=gNg93sfoqtA&ab_channel=TechNotebook
 
 humidity connect: https://www.youtube.com/watch?v=N2qHnPNadL4&ab_channel=MindstormEngineering
