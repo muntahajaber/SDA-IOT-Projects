@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=jYeUS7JxmA8&ab_channel=soumilshah1995
 https://www.youtube.com/watch?v=lhIiY1If8Os&ab_channel=ANALOGTecHII
 
 ThingSpeak: https://thingspeak.com/channels/1472795/private_show
+
+# Project-3: (Smart Irrigation System)
+Project-3 Resources: 
