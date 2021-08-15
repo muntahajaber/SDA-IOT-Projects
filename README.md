@@ -1,6 +1,6 @@
 # SDA-IOT-Projects
 # IOT - INTERMEDIATE
-# (Raspberry Pi Course Projects)------------------------------------
+# (Raspberry Pi Course Projects)------------------------
 # Project-1: (Home Automation System)
 Project-1 Resources:  
 relay connect: https://www.youtube.com/watch?v=gNg93sfoqtA&ab_channel=TechNotebook
@@ -20,3 +20,5 @@ ThingSpeak: https://thingspeak.com/channels/1472795/private_show
 
 # Project-3: (Smart Irrigation System)
 Project-3 Resources: 
+
+https://www.youtube.com/watch?v=9LxrX5Eeukg&ab_channel=PiddlerInTheRoot
